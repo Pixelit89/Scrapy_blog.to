@@ -1,0 +1,3 @@
+http://www.blogto.com/api/v2/listings/?bundle_type=simple&default_neighborhood=1&limit=12&offset=12&ordering=-date_published
+http://www.blogto.com/api/v2/listings/?bundle_type=simple&default_neighborhood=1&limit=12&offset=12&ordering=-date_published
+http://www.blogto.com/api/v2/listings/?bundle_type=simple&default_neighborhood=1&limit=12&offset=24&ordering=-date_published
